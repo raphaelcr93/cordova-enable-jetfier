@@ -1,0 +1,23 @@
+{
+  "name": "enablejetfier",
+  "version": "1.0.0",
+  "description": "Enable Jetfier for androidX cordova apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelcr93/cordova-enable-jetfier.git"
+  },
+  "keywords": [
+    "androidX",
+    "jetfier"
+  ],
+  "author": "Raphael Ranieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelcr93/cordova-enable-jetfier/issues"
+  },
+  "homepage": "https://github.com/raphaelcr93/cordova-enable-jetfier#readme"
+}
